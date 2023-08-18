@@ -1,0 +1,634 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .dropdown-menu {
+    width: 200px;
+  }
+  .dropdown,
+  .dropdown-center,
+  .dropend,
+  .dropstart,
+  .dropup,
+  .dropup-center {
+    position: relative;
+    left: 20px;
+    top: 0px;
+  }
+  .navbar button {
+    border: 0;
+  }
+  .navbar button:focus {
+    box-shadow: none;
+  }
+  .navbar button i {
+    color: #203239;
+  }
+  nav ul li .nav-link {
+    margin-left: 20px;
+  }
+  nav ul {
+    background: #f1d5b9;
+  }
+  nav ul li .nav-link::after {
+    background: 0;
+  }
+  nav ul li .nav-link:hover {
+    font-weight: 300;
+  }
+
+  /*===================== banner Part Start ======================= */
+  #banner h1 {
+    font-size: 32px;
+    width: auto;
+    line-height: 147%;
+    margin-top: 10px;
+  }
+  #banner p {
+    width: auto;
+    margin-bottom: 45px;
+  }
+  #banner .search {
+    width: 100%;
+    text-align: center;
+  }
+
+  #banner .search a {
+    width: 100%;
+    position: relative;
+    transform: translateY(0);
+    margin-left: 15px;
+    top: 50%;
+    right: 14px;
+    display: inline-block;
+    margin-top: 15px;
+  }
+  #banner .search i {
+    margin-top: -33px;
+  }
+  #banner .search input::placeholder {
+    font-size: 9px;
+  }
+  #banner .box .item {
+    width: 34%;
+  }
+  #banner .box {
+    flex-wrap: wrap;
+    align-content: center;
+  }
+  #banner .box .item h2 {
+    font-size: 36px;
+  }
+  #banner .box .item p {
+    width: auto;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  #banner img {
+    width: 100%;
+    margin-top: -235px;
+  }
+
+  /*===================== banner Part End =========================*/
+
+  /*===================== Proparty Part Start ======================= */
+  #proparty {
+    padding: 50px 0px;
+  }
+  #proparty .item {
+    margin-top: 32px;
+  }
+  #proparty .item p {
+    height: 140px;
+  }
+  #proparty h2 {
+    font-size: 24px;
+    width: auto;
+    text-align: center;
+  }
+
+  /*===================== Proparty Part End =========================*/
+
+  /*===================== Resident Part Start ======================= */
+  #resident {
+    padding: 50px 0px;
+    text-align: center;
+  }
+  #resident .tittle {
+    text-align: left;
+  }
+
+  #resident .img .up {
+    display: none;
+  }
+  #resident .img img {
+    width: 100%;
+  }
+  #resident h2 {
+    font-size: 25px;
+    width: auto;
+  }
+  #resident p {
+    font-size: 16px;
+    width: auto;
+  }
+  #resident a {
+    font-size: 13px;
+    padding: 9px 7px;
+    margin-right: 0;
+  }
+
+  /*===================== Resident Part End ======================= */
+
+  /*===================== Kota Part Start ======================= */
+  #kota {
+    padding: 50px 0px;
+  }
+  #kota img {
+    width: 100%;
+  }
+  #kota h2 {
+    font-size: 20px;
+  }
+  #kota p {
+    width: auto;
+  }
+  #footer h2 {
+    font-size: 33px;
+    margin-bottom: 36px;
+  }
+
+  #footer .item {
+    position: relative;
+  }
+  #footer .item i {
+    margin-top: 6px;
+    font-size: 36px;
+    color: #203239;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+  }
+  #footer .item .text {
+    margin-left: 60px;
+  }
+
+  .footer_end {
+    position: relative;
+  }
+  .footer_end .icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  #footer .footer_end i {
+    margin-left: 30px;
+  }
+
+  /*===================== Kota Part End =========================*/
+}
+
+@media (min-width: 576px) and (max-width: 768.98px) {
+  .dropdown-menu {
+    width: 200px;
+  }
+  .dropdown,
+  .dropdown-center,
+  .dropend,
+  .dropstart,
+  .dropup,
+  .dropup-center {
+    position: relative;
+    left: 20px;
+    top: 0px;
+  }
+  .navbar button {
+    border: 0;
+  }
+  .navbar button:focus {
+    box-shadow: none;
+  }
+  .navbar button i {
+    color: #203239;
+  }
+  nav ul li .nav-link {
+    margin-left: 20px;
+  }
+  nav ul {
+    background: #f1d5b9;
+  }
+  nav ul li .nav-link::after {
+    background: 0;
+  }
+  nav ul li .nav-link:hover {
+    font-weight: 300;
+  }
+
+  /*===================== banner Part Start ======================= */
+  #banner h1 {
+    font-size: 32px;
+    width: auto;
+    line-height: 147%;
+    margin-top: 10px;
+  }
+  #banner p {
+    width: auto;
+    margin-bottom: 45px;
+  }
+  #banner .search {
+    width: 100%;
+  }
+  #banner .search input::placeholder {
+    font-size: 12px;
+  }
+
+  #banner .box .item {
+    width: 34%;
+  }
+  #banner .box {
+    flex-wrap: wrap;
+    align-content: center;
+  }
+  #banner .box .item h2 {
+    font-size: 36px;
+  }
+  #banner .box .item p {
+    width: auto;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  #banner img {
+    width: 100%;
+    margin-top: -235px;
+  }
+
+  /*===================== banner Part End =========================*/
+
+  /*===================== Proparty Part Start ======================= */
+  #proparty {
+    padding: 50px 0px;
+  }
+  #proparty .item {
+    margin-top: 32px;
+  }
+  #proparty .item p {
+    height: 180px;
+  }
+  #proparty h2 {
+    font-size: 24px;
+    width: auto;
+    text-align: center;
+  }
+
+  /*===================== Proparty Part End =========================*/
+
+  /*===================== Resident Part Start ======================= */
+  #resident {
+    padding: 50px 0px;
+    text-align: center;
+  }
+  #resident .tittle {
+    text-align: left;
+  }
+
+  #resident .img .up {
+    position: absolute;
+    top: 85px;
+    left: 74px;
+    width: 50;
+  }
+  #resident .img img {
+    width: 70%;
+  }
+  #resident h2 {
+    font-size: 25px;
+    width: auto;
+    margin-top: 44px;
+  }
+  #resident p {
+    font-size: 16px;
+    width: auto;
+  }
+  #resident a {
+    font-size: 13px;
+    padding: 12px 28px;
+    margin-top: 10px;
+  }
+
+  /*===================== Resident Part End ======================= */
+
+  /*===================== Kota Part Start ======================= */
+  #kota {
+    padding: 50px 0px;
+  }
+  #kota img {
+    width: 100%;
+  }
+  #kota h2 {
+    font-size: 20px;
+  }
+  #kota p {
+    width: auto;
+  }
+  #footer h2 {
+    font-size: 33px;
+    margin-bottom: 36px;
+  }
+  #footer .item {
+    position: relative;
+  }
+
+  #footer .item i {
+    margin-top: 6px;
+    font-size: 36px;
+    color: #203239;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+  }
+  #footer .item .text {
+    margin-left: 35px;
+  }
+
+  .footer_end {
+    position: relative;
+  }
+  .footer_end .icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  #footer .footer_end i {
+    margin-left: 30px;
+  }
+  #footer .item .text p {
+    font-size: 14px;
+  }
+  /*===================== Kota Part End =========================*/
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .dropdown-menu {
+    width: 200px;
+  }
+  .dropdown,
+  .dropdown-center,
+  .dropend,
+  .dropstart,
+  .dropup,
+  .dropup-center {
+    position: relative;
+    left: 20px;
+    top: 0px;
+  }
+  .navbar button {
+    border: 0;
+  }
+  .navbar button:focus {
+    box-shadow: none;
+  }
+  .navbar button i {
+    color: #203239;
+  }
+  nav ul li .nav-link {
+    margin-left: 20px;
+  }
+  nav ul {
+    background: #f1d5b9;
+  }
+  nav ul li .nav-link::after {
+    background: 0;
+  }
+  nav ul li .nav-link:hover {
+    font-weight: 300;
+  }
+
+  /*===================== banner Part Start ======================= */
+  #banner h1 {
+    font-size: 32px;
+    width: auto;
+    line-height: 147%;
+    margin-top: 10px;
+  }
+  #banner p {
+    width: auto;
+    margin-bottom: 45px;
+  }
+  #banner .search {
+    width: 100%;
+  }
+  #banner .search input::placeholder {
+    font-size: 12px;
+  }
+
+  #banner .box .item {
+    width: 34%;
+  }
+  #banner .box {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  #banner .box .item h2 {
+    font-size: 36px;
+  }
+  #banner .box .item p {
+    width: 123px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  #banner img {
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  /*===================== banner Part End =========================*/
+
+  /*===================== Proparty Part Start ======================= */
+  #proparty {
+    padding: 50px 0px;
+  }
+  #proparty .item {
+    margin-top: 32px;
+  }
+  #proparty .item p {
+    height: 265px;
+  }
+  #proparty h2 {
+    font-size: 24px;
+    width: 350px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  #proparty .item h3 span {
+    right: -29px;
+  }
+
+  /*===================== Proparty Part End =========================*/
+
+  /*===================== Resident Part Start ======================= */
+  #resident {
+    padding: 50px 0px;
+    text-align: center;
+  }
+  #resident .tittle {
+    text-align: left;
+  }
+
+  #resident .img .up {
+    position: absolute;
+    top: 39px;
+    left: 54px;
+    width: 50;
+  }
+  #resident .img img {
+    width: 100%;
+  }
+  #resident h2 {
+    font-size: 25px;
+    width: auto;
+    margin-top: 44px;
+  }
+  #resident p {
+    font-size: 16px;
+    width: auto;
+  }
+  #resident a {
+    font-size: 13px;
+    padding: 12px 41px;
+    margin-right: 22px;
+  }
+
+  /*===================== Resident Part End ======================= */
+
+  /*===================== Kota Part Start ======================= */
+  #kota {
+    padding: 50px 0px;
+  }
+  #kota img {
+    width: 100%;
+  }
+  #kota h2 {
+    font-size: 18px;
+  }
+  #kota p {
+    width: auto;
+    font-size: 14px;
+  }
+  #footer h2 {
+    font-size: 33px;
+    margin-bottom: 36px;
+  }
+  #footer .item {
+    position: relative;
+  }
+
+  #footer .item i {
+    margin-top: 6px;
+    font-size: 36px;
+    color: #203239;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+  }
+  #footer .item .text {
+    margin-left: 35px;
+  }
+
+  .footer_end {
+    position: relative;
+  }
+  .footer_end .icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  #footer .footer_end i {
+    margin-left: 30px;
+  }
+  #footer .item .text p {
+    font-size: 14px;
+  }
+  /*===================== Kota Part End =========================*/
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .dropdown-menu {
+    width: 200px;
+  }
+  .dropdown,
+  .dropdown-center,
+  .dropend,
+  .dropstart,
+  .dropup,
+  .dropup-center {
+    position: relative;
+    left: 20px;
+    top: 0px;
+  }
+  #banner h1 {
+    font-size: 46px;
+  }
+  #banner .search {
+    width: 610px;
+  }
+
+  #proparty .item p {
+    height: 266px;
+  }
+
+  #resident .img .up {
+    width: 60%;
+    top: 135px;
+  }
+
+  #resident a {
+    padding: 13px 15px;
+
+    margin-right: 12px;
+  }
+
+  #kota p {
+    width: auto;
+  }
+  #resident h2 {
+    font-size: 29px;
+
+    width: auto;
+  }
+  #resident p {
+    width: auto;
+  }
+  #proparty .item h3 span {
+    right: -45px;
+  }
+
+  #footer .item {
+    position: relative;
+  }
+
+  #footer .item i {
+    margin-left: -17px;
+    font-size: 18px;
+    top: 21px;
+    left: 7px;
+  }
+  #footer .item .text {
+    margin-left: -38px;
+  }
+
+  .footer_end {
+    position: relative;
+  }
+  .footer_end .icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  #footer .footer_end i {
+    margin-left: 30px;
+  }
+  #footer .item .text p {
+    font-size: 14px;
+  }
+}
